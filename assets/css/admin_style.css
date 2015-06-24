@@ -1,0 +1,7 @@
+#jobpost_metas label, #app_form_fields label{
+    display: inline-block;
+    width: 100px;
+    text-transform: capitalize;
+}
+
+.post-type-jobpost_applicants .widefat td, .post-type-jobpost_applicants .widefat th{min-width: 120px; vertical-align: middle}
