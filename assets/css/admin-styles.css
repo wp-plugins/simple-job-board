@@ -1,0 +1,43 @@
+.post-type-jobpost_applicants .widefat td,
+.post-type-jobpost_applicants .widefat th {
+    min-width: 120px;
+    vertical-align: middle;
+}
+.app_form_fields .jobapp_group{
+    padding-bottom: 20px;
+}
+
+/* Job Post Page */
+.meta_option_panel label{
+    cursor: default;
+    min-width: 175px;
+    display: inline-block;
+}
+
+/* Settings Page */
+.settings_panel h4:first-child {
+    margin-top: 30px;
+}
+.settings_panel h4 {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 1.1;
+}
+
+/* Settings Page -> Job Features */
+.settings_panel label{
+    cursor: default;
+    min-width: 250px;
+    display: inline-block;
+}
+
+/* Settings Page -> Application Form Fields */
+.app_form_fields:first-child{
+    *margin: 0;
+}
+.app_form_fields{
+    background: #F9F9F9;
+    padding: 10px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
