@@ -12,7 +12,7 @@ Powerful & Robust plugin to create a Job Board on your WordPress website in simp
 
 == Description ==
 
-=Are you looking for easy, user-friendly and robust Job board plugin?= 
+= Are you looking for easy, user-friendly and robust Job board plugin? = 
 Simple job Board by <a href="http://www.presstigers.com">PressTigers</a> is an easy and light weight plugin that adds a job board to your WordPress website. 
 This plugin is focused on extendibility and ease of use. A customized job board is created to manage various job offers via Wordpress with Simple job Board. You can add multiple job listings and can show them on any page by inserting [jobpost] shortcode. For every single job listing you can add multiple job features and customized application form.  You can add notes to an application right from the dashboard. 
 
