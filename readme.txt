@@ -87,8 +87,8 @@ In your WordPress admin panel, go to "Job Board" menu and "Applicants" section
 = Where can I use the Type, Location and Categories shortcodes? = 
 You can use thes shortcodes while you create a New Page or New Post.
 
-= Where can I find more information about Simple Job Board features? =  
-You can visit <a href="http://www.presstigers.com">PressTigers Website</a> or <a href="http://www.presstigers.com/blogs">blogs</a>
+= Where can I find more information about Simple Job Board? =  
+You can visit <a href="http://www.presstigers.com">PressTigers Website</a> or <a href="http://www.presstigers.com/blog">blog</a> page.
 
 == Changelog ==
 
