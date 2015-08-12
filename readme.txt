@@ -8,7 +8,7 @@ Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Powerful & Robust plugin to create a Job Board on your WordPress website in simple & elegant way.
+Powerful & Robust plugin to create a Job Board on your website in simple & elegant way.
 
 == Description ==
 
