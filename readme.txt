@@ -92,15 +92,6 @@ You can visit <a href="http://www.presstigers.com">PressTigers Website</a> or <a
 
 == Changelog ==
 
-= 1.0.0 =
-*   First release
-
-= 1.1 =
-
-* Job categories introduced.
-* Fixed 404 error on job detail page in some circumstances.
-* Fixed Application drop down fields issue on front-end.
-
 = 2.0 =
 * Job Categories shortcode introduced.
 * Job Type introduced.
@@ -110,9 +101,19 @@ You can visit <a href="http://www.presstigers.com">PressTigers Website</a> or <a
 * Job applicant introduced
 * Settings introduced
 
-== Upgrade Notice ==
+= 1.1 =
 
-There is no need to upgrade just yet.
+* Job categories introduced.
+* Fixed 404 error on job detail page in some circumstances.
+* Fixed Application drop down fields issue on front-end.
+
+= 1.0 =
+*   First release
+
+
+== Upgrade Notice ==
+Upgrade your plugin immediately as it has more secure directory structure.
+Please deactivate previous version, upgrade & then re-activate newer version.
 
 == Screenshots ==
 
