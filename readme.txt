@@ -1,7 +1,7 @@
 === Simple Job Board ===
 Contributors: PressTigers
 Donate link: http://www.presstigers.com
-Tags: application, career, job advertisement board, candidate, company, employees, employer, employment, freelance, hiring, internship, job, job board, job list, job listing, Job Listings, job lists, job management, job manager, jobs, listing, manager, positions, recruiting, Recruitment, talent, career page, Career Portal, CV, job Ad, job portal, resume, resume up-loader, vacancy
+Tags: job, job board, job list, job listing, Job Listings, job lists, job management, job manager, jobs, application, career, job advertisement board, candidate, company, employees, employer, employment, freelance, hiring, internship, listing, manager, positions, recruiting, Recruitment, talent, career page, Career Portal, CV, job Ad, job portal, resume, resume up-loader, vacancy
 Requires at least: 3.5.1
 Tested up to: 4.2.4
 Stable tag: 2.0
@@ -70,22 +70,22 @@ Yes, you can show any number of posts on your website by using shortcode with "p
 Yes, use shortcode with "excerpt" attribute i.e [jobpost excerpt="no"]
 
 = Can I show job listings for particular "Category" using a shortcode? = 
-Yes, you can us a shortcode on post page i.e [jobpost category="fse"]
+Yes, you can us a shortcode on post page i.e [jobpost category="category-slug"]
 
 = Can I show job listings for particular "Type" using a shortcode? = 
-Yes, you can us a shortcode on post page i.e [jobpost type="ip"]
+Yes, you can us a shortcode on post page i.e [jobpost type="type-slug"]
 
 = Can I show job listings for particular "Location" using a shortcode? = 
-Yes, you can us a shortcode on post page i.e [jobpost location="UK"]
+Yes, you can us a shortcode on post page i.e [jobpost location="location-slug"]
 
 = Can I use combination for various shorcodes to display job listings? = 
-Yes, you can use various combinations of shortcodes with spaces i.e [jobpost location="UK" category"fse" type="ip"]
+Yes, you can use various combinations of shortcodes with spaces i.e [jobpost location="location-slug" category="category-slug" type="type-slug"]
 
 = How Can I view the Applicant list for a Job Post? = 
 In your WordPress admin panel, go to "Job Board" menu and "Applicants" section
 
 = Where can I use the Type, Location and Categories shortcodes? = 
-You can use thes shortcodes while you create a New Page or New Post.
+You can use these shortcodes while you create a New Page or New Post.
 
 = Where can I find more information about Simple Job Board? =  
 You can visit <a href="http://www.presstigers.com">PressTigers Website</a> or <a href="http://www.presstigers.com/blog">blog</a> page.
