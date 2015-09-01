@@ -3,7 +3,7 @@ Contributors: PressTigers
 Donate link: http://www.presstigers.com
 Tags: job, job board, job list, job listing, Job Listings, job lists, job management, job manager, jobs, application, career, job advertisement board, candidate, company, employees, employer, employment, freelance, hiring, internship, listing, manager, positions, recruiting, Recruitment, talent, career page, Career Portal, CV, job Ad, job portal, resume, resume up-loader, vacancy
 Requires at least: 3.5.1
-Tested up to: 4.2.4
+Tested up to: 4.3
 Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
