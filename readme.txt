@@ -4,7 +4,7 @@ Donate link: http://presstigers.com
 Tags: career, job, vacancy, career page, job board, career portal, job portal, resume, cv, resume up-loader, job ad, advertisement board
 Requires at least: 3.5
 Stable Tag: 2.0
-Tested up to: 4.2.2
+Tested up to: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
