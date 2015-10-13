@@ -1,0 +1,224 @@
+/**
+ * Job Archive/Listing
+ * Job Archive/Listing -> Shortcode
+ */
+.job-listings{
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    line-height: normal;
+    color: #787878;
+    display: inline-block;
+    width: 100%;
+}
+
+/**
+ * Job Archive/Listing -> Icon FilterSection
+ */
+.job-listings-layout{
+    width: 100%;
+}
+.job-listings-layout span {    
+    width: 15px;
+    height: 13px;
+    float: right;
+    margin: 0 0 5px 10px;
+    cursor: pointer;
+}
+
+/* change images address w.r.t to your plugin directory */
+.job-listings-layout .no-logo {
+    background: url('../images/layout.png') no-repeat 0 0;
+}
+.job-listings-layout .no-logo-detail {
+    background: url('../images/layout.png') no-repeat -25px 0;
+}
+.job-listings-layout .full-view {
+    background: url('../images/layout.png') no-repeat -50px 0;
+}
+
+/* Job Archive/Listing -> Container */
+.job-listings ul{
+    list-style: none !important;
+    margin: 0 !important;
+    padding: 0;
+
+}
+
+/* Job Archive/Listing -> Row */
+.job-listings .job-listing {
+    background: #fff;
+    border: 1px solid #e9e9e9!important;
+    margin: 0 0 20px 0!important;
+    padding: 0!important;
+    float: left;
+    width: 100%;
+}
+
+/* Job Archive/Listing -> Row -> Logo & Content Section */
+.job-listings .job-listing > a {
+    padding: 20px 5px;
+    overflow: hidden;
+    width: 100%;
+    float: left;
+    display: block;
+    border: none;
+}
+
+/* Job Archive/Listing -> Row -> Company Logo */
+.job-listings .job-listing .company-logo{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    border: 1px solid #e9e9e9;
+    background: #fff;
+    margin: 0 20px 0 0;
+    -webkit-transition: width 2s; /* For Safari 3.1 to 6.0 */
+    -moz-transition: width 2s;
+    transition: width 2s;
+
+}
+.job-listings .job-listing .company-logo img{
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+    position: absolute;
+    top: 0!important;
+    left: 0!important;
+    bottom: 0!important;
+    right: 0!important;
+    margin: auto!important;
+    border: none!important
+}
+
+/* Job Archive/Listing -> Row -> Heading */
+.job-listings .job-listing h3
+{
+    font-size: 16px;
+    margin: 0 0 4px 0;
+    padding: 0 !important;
+    line-height: normal;
+}
+.job-listings .job-listing h3:hover{
+    color: #3399fe;
+}
+
+/* Job Archive/Listing -> Row -> Icons */
+.job-listings .job-listing .glyphicon{
+    font-size: 12px;
+    float: left;
+    top: 4px !important;
+    margin: 0 5px 0 0;
+    color: #3399fe;
+}
+.job-listings .job-listing .job-company.topmargin {
+    margin: 10px 0 0 0;
+    overflow: hidden;
+}
+.job-listings .job-listing .job-location,
+.job-listings .job-listing .job-type {
+    margin: 10px 0 0 0;
+    overflow: hidden;
+}
+.job-listings .job-listing .description {
+    margin-top: 15px;
+    border:0;
+}
+.job-listings .job-listing .description a , .job-listings .job-listing .description a:hover{
+    border:0;
+    text-decoration: none;
+}
+.job-listings .job-listing .description p{
+    margin: 0;
+}
+
+/**
+ * Job Listing/Archive
+ * Job Listing/Archive -> Filters
+ */
+.job-filters {
+    background: #eee;
+    padding: 20px 20px 0 20px;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+.job-filters .search-keywords {
+    margin-bottom: 10px;
+}
+.job-filters .search-categories,
+.job-filters .search-job-type,
+.job-filters .search-location {
+    float: left;
+    margin-bottom: 10px;
+}
+.job-filters select {
+    border: 1px solid rgba(51, 51, 51, 0.1);
+    color: rgba(51, 51, 51, 0.7);
+    padding: 0.5278em;
+    margin-right: 10px;
+}
+.job-filters .search-button {
+    float: left;
+}
+
+/**
+ * Job Detail Page
+ */
+.single-job-listing {
+    font-family: 'Lato', sans-serif;
+}
+.single-job-listing .simple-job-board-info {
+    font-style: italic;
+}
+
+/**
+ * Job Detail Page
+ * Job Detail Page -> Meta
+ */
+.single-job-listing ul.meta {
+    list-style: none;
+    margin: 0 0 1.5em;
+    border: 1px solid #cccccc;
+    overflow: hidden;
+}
+.single-job-listing ul.meta li{
+    color: #999;
+    line-height: 1em;
+    padding: 0.5em;
+    float: left;
+    display: inline-block;
+}
+.single-job-listing ul.meta li:first-child {
+    background-color: #333333;
+}
+
+/* Job Detail Page -> Meta -> Icons */
+.single-job-listing ul.meta li .glyphicon{
+    font-size: 14px;
+    float: left;
+    top: 2px !important;
+    margin: 0 5px 0 0;
+}
+
+
+/**
+ * Job Detail Page
+ * Job Detail Page -> Company
+ */
+.single-job-listing .company {
+    border: 1px solid #eee;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    clear: both;
+    display: block;
+    margin: 0 0 2em;
+    min-height: 3em;
+    padding: 1em;
+    position: relative;
+}
+.single-job-listing .company p.name {
+    margin-bottom: 0;
+}
+.single-job-listing .company .website {
+    float: right;
+    border-bottom: none;
+}
