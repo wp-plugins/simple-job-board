@@ -1,0 +1,422 @@
+# Copyright (C) 2015 Simple Job Board
+# This file is distributed under the same license as the Simple Job Board package
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Job Board 2.1.2\n"
+"POT-Creation-Date: 2015-10-05 16:13+0500\n"
+"PO-Revision-Date: 2015-10-26 11:52+0500\n"
+"Last-Translator: PressTigers <support@presstigers.com>\n"
+"Language-Team: PressTigers <support@presstigers.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;gettext;gettext_noop\n"
+"X-Poedit-Basepath: /wp-content/plugins/simple-job-board/\n"
+"Language: Arabic\n"
+
+#: admin/class-simple-job-board-admin-setup.php:50
+#: admin/class-simple-job-board-admin-setup.php:60
+msgid "Settings"
+msgstr "إعدادات"
+
+#: admin/class-simple-job-board-admin-setup.php:62
+msgid "General"
+msgstr "بصفة عامة"
+
+#: admin/class-simple-job-board-admin-setup.php:63
+#: templates/job-features.php:11
+msgid "Job Features"
+msgstr "الميزات وظيفة"
+
+#: admin/class-simple-job-board-admin-setup.php:64
+#: admin/class-simple-job-board-writepanels.php:53
+msgid "Application Form Fields"
+msgstr "استماره الطلب"
+
+#: admin/class-simple-job-board-admin-setup.php:65
+msgid "Filters"
+msgstr "المرشحات"
+
+#: admin/class-simple-job-board-admin-setup.php:66
+msgid "Email Notifications"
+msgstr "اشعارات البريد الالكتروني"
+
+#: admin/class-simple-job-board-admin-setup.php:67
+#: admin/class-simple-job-board-admin-setup.php:491
+msgid "Upload File Extensions"
+msgstr "تحميل ملحقات الملف"
+
+#: admin/class-simple-job-board-admin-setup.php:77
+msgid "General Options"
+msgstr "خيارات عامة"
+
+#: admin/class-simple-job-board-admin-setup.php:105
+msgid "Enable job listing with company logo and detail"
+msgstr "تمكين وظيفة قائمة مع شعار الشركة والتفاصيل"
+
+#: admin/class-simple-job-board-admin-setup.php:109
+msgid "Enable job listing without company logo and detail"
+msgstr "تمكين وظيفة بدون شعار الشركة والتفاصيل"
+
+#: admin/class-simple-job-board-admin-setup.php:113
+msgid "Enable job listing without company logo"
+msgstr "تمكين وظيفة بدون شعار الشركة"
+
+#: admin/class-simple-job-board-admin-setup.php:123
+msgid "Default Feature List"
+msgstr "افتراضي ميزة قائمة"
+
+#: admin/class-simple-job-board-admin-setup.php:160
+msgid "Field Name"
+msgstr "اسم الحقل"
+
+#: admin/class-simple-job-board-admin-setup.php:170
+msgid "Add New Feature"
+msgstr "إضافة ميزة جديدة"
+
+#: admin/class-simple-job-board-admin-setup.php:175
+#: admin/class-simple-job-board-writepanels.php:137
+msgid "Feature"
+msgstr "ميزة"
+
+#: admin/class-simple-job-board-admin-setup.php:176
+#: admin/class-simple-job-board-writepanels.php:138
+msgid "Value"
+msgstr "القيمة"
+
+#: admin/class-simple-job-board-admin-setup.php:205
+msgid "Default Application Form Fields"
+msgstr "افتراضي استماره الطلب الحقول"
+
+#: admin/class-simple-job-board-admin-setup.php:280
+#: admin/class-simple-job-board-writepanels.php:255
+msgid "Field"
+msgstr "حقل"
+
+#: admin/class-simple-job-board-admin-setup.php:281
+#: admin/class-simple-job-board-writepanels.php:256
+msgid "Type"
+msgstr "نموذج"
+
+#: admin/class-simple-job-board-admin-setup.php:346
+msgid "Select filters that display on front-end"
+msgstr "اختر المرشحات التي عرضها على الواجهة الأمامية"
+
+#: admin/class-simple-job-board-admin-setup.php:351
+msgid "Enable the Job Category Filter"
+msgstr "تمكين تصفية تصنيف الوظيفة"
+
+#: admin/class-simple-job-board-admin-setup.php:356
+msgid "Enable the Job Type Filter"
+msgstr "تمكين تصفية نوع الوظيفة"
+
+#: admin/class-simple-job-board-admin-setup.php:361
+msgid "Enable the Job Location Filter"
+msgstr "تمكين الوظيفة تصفية"
+
+#: admin/class-simple-job-board-admin-setup.php:366
+msgid "Enable the Search Bar"
+msgstr "تمكين شريط البحث"
+
+#: admin/class-simple-job-board-admin-setup.php:414
+msgid "Enable Email Notification"
+msgstr "تمكين إعلام البريد الإلكتروني"
+
+#: admin/class-simple-job-board-admin-setup.php:419
+msgid "HR Email:"
+msgstr "الموارد البشرية البريد الإلكتروني"
+
+#: admin/class-simple-job-board-admin-setup.php:427
+msgid "Admin Email:"
+msgstr "مشرف البريد الإلكتروني"
+
+#: admin/class-simple-job-board-admin-setup.php:424
+msgid "Enable the HR email notification"
+msgstr "تمكين إشعار البريد الإلكتروني الموارد البشرية"
+
+#: admin/class-simple-job-board-admin-setup.php:432
+msgid "Enable the Admin email notification"
+msgstr "تمكين إشعار المشرف البريد الإلكتروني"
+
+#: admin/class-simple-job-board-admin-setup.php:436
+msgid "Enable the Applicant email notification"
+msgstr "تمكين إشعار البريد الإلكتروني الطلب"
+
+#: admin/class-simple-job-board-admin-setup.php:520
+msgid "Press and hold down the Ctrl key to select multiple extensions."
+msgstr "اضغط باستمرار على المفتاح Ctrl لتحديد امتدادات متعددة"
+
+#: admin/class-simple-job-board-admin-setup.php:523
+msgid "Enable all extensions"
+msgstr "تمكين كافة الملحقات"
+
+#: admin/class-simple-job-board-admin-setup.php:528
+msgid "Enable Uploaded Files Anti-Hotlinking"
+msgstr "تمكين تحميل الملفات المضادة روابط مفيدة"
+
+#: admin/class-simple-job-board-admin-setup.php:574
+msgid "Settings saved."
+msgstr "الإعدادات المحفوظة"
+
+#: admin/class-simple-job-board-admin-setup.php:117
+#: admin/class-simple-job-board-admin-setup.php:189
+#: admin/class-simple-job-board-admin-setup.php:302
+#: admin/class-simple-job-board-admin-setup.php:371
+#: admin/class-simple-job-board-admin-setup.php:441
+#: admin/class-simple-job-board-admin-setup.php:533
+msgid "Save Changes"
+msgstr "حفظ التغيرات"
+
+#: admin/class-simple-job-board-admin-setup.php:160
+#: admin/class-simple-job-board-admin-setup.php:263
+#: admin/class-simple-job-board-writepanels.php:106
+#: admin/class-simple-job-board-writepanels.php:125
+#: admin/class-simple-job-board-writepanels.php:212
+#: admin/class-simple-job-board-writepanels.php:242
+msgid "Delete"
+msgstr "حذف"
+
+#: admin/class-simple-job-board-admin-setup.php:184
+#: admin/class-simple-job-board-admin-setup.php:297
+#: admin/class-simple-job-board-writepanels.php:146
+#: admin/class-simple-job-board-writepanels.php:273
+msgid "Add Field"
+msgstr "إضافة حقل"
+
+#: includes/class-simple-job-board-post-types.php:84
+msgid "Job"
+msgstr "عمل"
+
+#: includes/class-simple-job-board-post-types.php:85
+msgid "Jobs"
+msgstr "فرص عمل"
+
+#: includes/class-simple-job-board-post-types.php:90
+msgid "Job Board"
+msgstr "مجلس وظيفة"
+
+#: includes/class-simple-job-board-post-types.php:91
+#: includes/class-simple-job-board-post-types.php:133
+#: includes/class-simple-job-board-post-types.php:165
+#: includes/class-simple-job-board-post-types.php:197
+msgid "All %s"
+msgstr "كل %s"
+
+#: includes/class-simple-job-board-post-types.php:92
+msgid "Add New"
+msgstr "اضف جديد"
+
+#: includes/class-simple-job-board-post-types.php:136
+#: includes/class-simple-job-board-post-types.php:168
+#: includes/class-simple-job-board-post-types.php:200
+msgid "Add New %s"
+msgstr "اضف جديد%s"
+
+#: includes/class-simple-job-board-post-types.php:93
+msgid "Add %s"
+msgstr "إضافة %s"
+
+#: includes/class-simple-job-board-post-types.php:94
+#: includes/class-simple-job-board-post-types.php:134
+#: includes/class-simple-job-board-post-types.php:166
+#: includes/class-simple-job-board-post-types.php:198
+#: includes/class-simple-job-board-post-types.php:225
+#: includes/class-simple-job-board-post-types.php:229
+msgid "Edit %s"
+msgstr "تحرير%s"
+
+#: includes/class-simple-job-board-post-types.php:95
+msgid "New %s"
+msgstr "جديد%s"
+
+#: includes/class-simple-job-board-post-types.php:135
+#: includes/class-simple-job-board-post-types.php:167
+#: includes/class-simple-job-board-post-types.php:199
+msgid "Update %s"
+msgstr "التحديث%s"
+
+#: includes/class-simple-job-board-post-types.php:96
+msgid "View %s"
+msgstr "عرض%s"
+
+#: includes/class-simple-job-board-post-types.php:97
+#: includes/class-simple-job-board-post-types.php:140
+#: includes/class-simple-job-board-post-types.php:172
+#: includes/class-simple-job-board-post-types.php:204
+msgid "Search %s"
+msgstr "بحث%s"
+
+#: includes/class-simple-job-board-post-types.php:98
+msgid "No %s found"
+msgstr "لم يوجد%s "
+
+#: includes/class-simple-job-board-post-types.php:99
+msgid "No %s found in trash"
+msgstr "لم يوجد في سلة المهملات %s "
+
+#: includes/class-simple-job-board-post-types.php:100
+#: includes/class-simple-job-board-post-types.php:138
+#: includes/class-simple-job-board-post-types.php:170
+#: includes/class-simple-job-board-post-types.php:202
+msgid "Parent %s"
+msgstr "الأم%s"
+
+#: includes/class-simple-job-board-post-types.php:139
+#: includes/class-simple-job-board-post-types.php:171
+#: includes/class-simple-job-board-post-types.php:203
+msgid "Parent %s:"
+msgstr "لأم%s :"
+
+#: includes/class-simple-job-board-post-types.php:137
+#: includes/class-simple-job-board-post-types.php:169
+#: includes/class-simple-job-board-post-types.php:201
+msgid "New %s Name"
+msgstr "اسم جديد%s "
+
+#: includes/class-simple-job-board-post-types.php:107
+msgid "This is where you can create and manage %s."
+msgstr "هذا هو المكان الذي يمكنك إنشاء وإدارة%s"
+
+#: includes/class-simple-job-board-post-types.php:126
+#: templates/job-features.php:18
+msgid "Job Category"
+msgstr "تصنيف الوظيفة"
+
+#: includes/class-simple-job-board-post-types.php:127
+msgid "Job Categories"
+msgstr "الفئات الوظيفية"
+
+#: includes/class-simple-job-board-post-types.php:158
+msgid "Job Type"
+msgstr "نوع وظيفة"
+
+#: includes/class-simple-job-board-post-types.php:159
+msgid "Job Types"
+msgstr "أنواع وظيفة"
+
+#: includes/class-simple-job-board-post-types.php:190
+msgid "Job Location"
+msgstr "مكان الوظيفة"
+
+#: includes/class-simple-job-board-post-types.php:191
+msgid "Job Locations"
+msgstr "المواقع وظيفة"
+
+#: includes/class-simple-job-board-post-types.php:222
+msgid "Applicants"
+msgstr "طالبات وظيفة"
+
+#: includes/class-simple-job-board-post-types.php:398
+msgid "Job Applied for"
+msgstr "التطبيقية وظيفة"
+
+#: includes/class-simple-job-board-post-types.php:399
+msgid "Applicant"
+msgstr "طالب وظيفة"
+
+#: includes/class-simple-job-board-post-types.php:400
+msgid "Categories"
+msgstr "الفئات"
+
+#: includes/class-simple-job-board-post-types.php:401
+msgid "Date"
+msgstr "تاريخ"
+
+#: includes/class-simple-job-board-post-types.php:435
+msgid "No Categories"
+msgstr "لا يوجد فئات"
+
+#: includes/class-simple-job-board-post-types.php:287
+#: includes/class-simple-job-board-post-types.php:319
+#: includes/class-simple-job-board-post-types.php:350
+msgid "Shortcode"
+msgstr "رمز قصير"
+
+#: includes/class-simple-job-board-applicants.php:63
+msgid "Resume"
+msgstr "السيرة الذاتية"
+
+#: includes/class-simple-job-board-applicants.php:77
+msgid "Application Notes"
+msgstr "ملاحظات التطبيق"
+
+#: admin/class-simple-job-board-writepanels.php:49
+msgid "%s Features"
+msgstr "ميزات%s"
+
+#: admin/class-simple-job-board-metaboxes.php:89
+msgid "Company Name"
+msgstr "اسم الشركة"
+
+#: admin/class-simple-job-board-metaboxes.php:90
+msgid "Company Website"
+msgstr "موقع الشبكة"
+
+#: admin/class-simple-job-board-metaboxes.php:91
+msgid "Company Tagline"
+msgstr "شركة سطر الوصف"
+
+#: admin/class-simple-job-board-metaboxes.php:92
+msgid "Company Logo"
+msgstr "شعار الشركة"
+
+#: admin/class-simple-job-board-metaboxes.php:66
+msgid "Job Data"
+msgstr "بيانات الوظائف"
+
+#: admin/class-simple-job-board-metaboxes.php:116
+msgid "Upload"
+msgstr "تحميل"
+
+#: templates/job-filters.php:27
+msgid "Select Category"
+msgstr "اختر الفئة"
+
+#: templates/job-filters.php:53
+msgid "Select Job Type"
+msgstr "حدد نوع الوظيفة"
+
+#: templates/job-filters.php:81
+msgid "Select Location"
+msgstr "حدد الموقع"
+
+#: templates/job-filters.php:93
+msgid "Search"
+msgstr "بحث"
+
+#: templates/job-filters.php:13
+msgid "Keywords"
+msgstr "الكلمات المفتاحية"
+
+#: templates/job-application.php:4
+msgid "Apply Online"
+msgstr "تنطبق على الانترنت"
+
+#: templates/job-application.php:66
+msgid "Attach Resume"
+msgstr "إرفاق السيرة الذاتية"
+
+#. Plugin Name of the plugin/theme
+msgid "Simple Job Board"
+msgstr "مجلس العمل بسيط"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/simple-job-board/simple-job-board-uri"
+msgstr "https://wordpress.org/plugins/simple-job-board/simple-job-board-uri"
+
+#. Description of the plugin/theme
+msgid ""
+"Powerful & Robust plugin to create a Job Board on your website in simple & "
+"elegant way."
+msgstr ""
+"المساعد قوي وقوي لانشاء مجلس وظيفة على موقع الويب الخاص بك بطريقة بسيطة "
+"وأنيقة."
+
+#. Author of the plugin/theme
+msgid "PressTigers"
+msgstr "PressTigers"
+
+#. Author URI of the plugin/theme
+msgid "http://pressTigers.com"
+msgstr "http://pressTigers.com"
