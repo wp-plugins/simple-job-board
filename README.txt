@@ -1,8 +1,7 @@
 === Simple Job Board ===
 Contributors: PressTigers
 Donate link: http://www.presstigers.com
-Tags: application, career, job advertisement board, candidate, company, employees, employer, employment, freelance, hiring, internship, job, job board, job list, job listing, Job Listings, job  
-lists, job management, job manager, jobs, listing, manager, positions, recruiting, Recruitment, talent, career page, Career Portal, CV, job Ad, job portal, resume, resume up-loader, vacancy
+Tags: application, career, job advertisement board, candidate, company, employees, employer, employment, freelance, hiring, internship, job, job board, job list, job listing, job listings, job lists, job management, job manager, jobs, listing, manager, positions, recruiting, Recruitment, talent, career page, Career Portal, CV, job Ad, job portal, resume, resume up-loader, vacancy, job planner, interview
 Requires at least: 3.5.1
 Tested up to: 4.3.1
 Stable tag: 2.1.2
